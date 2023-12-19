@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Ignore __pycache__ folders
+__pycache__/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
