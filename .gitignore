@@ -1,11 +1,15 @@
-# Virtual environment
+# .gitignore
+
+# Virtual Environment
 venv/
+venv*/
 
-# Compiled Python files
+# Python
 *.pyc
-
-# Ignore __pycache__ folders
 __pycache__/
 
-# Ignore Jupyter notebook checkpoints
+# Jupyter Notebook
 .ipynb_checkpoints/
+
+# Environment variable file
+.env
